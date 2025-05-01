@@ -1,6 +1,3 @@
-# Text Processing Pipeline for Sentiment Analysis
-
-
 # Sentiment Analysis of Travel Reviews
 
 This project involves scraping customer reviews from Trustpilot and TripAdvisor, preprocessing the textual data, and performing sentiment analysis using Python's Natural Language Toolkit (NLTK) and the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analyzer.
